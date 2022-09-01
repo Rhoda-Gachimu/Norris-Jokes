@@ -62,3 +62,33 @@ li{
         border: 2px solid;
     }
  
+
+    .Homepage{
+        background-color:#628395 ;
+        
+        display: flex;
+        flex-direction: row;
+        align-items:center;
+        justify-content: space-between;
+        width: 85%;
+        margin: auto; 
+    }
+     
+    .image{
+        /* background-color: #DB0E0E; */
+        border-radius: 800px; 
+        
+    }
+    
+    .content{
+        /* background-color: aqua; */
+        width: 100%;
+        max-width: 800px;
+        min-width: 500px;
+        margin-right: 40px;
+        margin-top: 60px;
+        font-size: 2.6rem;
+    }
+    #place{
+        margin-top: 60%;
+    }
