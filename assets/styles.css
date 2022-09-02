@@ -159,8 +159,8 @@ li{
     
     #in{
         margin-top: 25px;
-        height: 10vh;
-        width: auto;
+        /* height: 10vh; */
+         width: 50vw; 
         border: 1px solid grey;
         background-color: #ffff;
         box-shadow: 10px 15px 10px #aaaaaa;
