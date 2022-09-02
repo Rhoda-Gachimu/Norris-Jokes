@@ -220,7 +220,7 @@ footer{
     color: #FFFF;
     font-size: 1.5rem;
     margin-top: 50px;
-    height: 40vh;
+    height: 50vh;
 }
 .footer{
     height: 30vh;
@@ -274,9 +274,11 @@ footer{
     padding: 10px;
 }
 .sub{
+    /* background-color: #DB0E0E; */
     display: flex;
     justify-content: space-evenly;
-    color: black
+    color: black;
+    
     
 }
 #enjoy{
@@ -285,6 +287,12 @@ footer{
     padding-right: 50px;
 }
 
+#thank{
+    font-weight: 600;
+    font-size:1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
      
 
 

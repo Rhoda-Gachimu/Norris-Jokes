@@ -1,7 +1,8 @@
 const subButton=document.getElementById("subscribe")
-subButton.addEventListener("click",function (){
-    const email=document.getElementById("email")
-    email.value(e)
-    e.target.value
+const email=document.getElementById("email")
 
+subButton.addEventListener("click",function (){
+    email.value="";
+    const paragraph=document.getElementById("thank")
+    paragraph.textContent="Thank you for subscribing!"
     })
