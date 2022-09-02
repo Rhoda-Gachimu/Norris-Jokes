@@ -266,6 +266,24 @@ footer{
 }
 
 
+#email{
+    padding: 10px;
+}
+#subscribe{
+    background-color: #DB0E0E;
+    padding: 10px;
+}
+.sub{
+    display: flex;
+    justify-content: space-evenly;
+    color: black
+    
+}
+#enjoy{
+    /* background-color: #DB0E0E; */
+    border-right: 2px black solid;
+    padding-right: 50px;
+}
 
      
 
