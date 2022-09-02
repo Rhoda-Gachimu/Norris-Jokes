@@ -208,9 +208,63 @@ reviews h1{
     color: #DB0E0E;
 }
 
- /* .reviewContent span .checked{
-    color:#c7db0e;
-}  */
+
+
+/* Footer */
+footer{
+    background-color: #628395;
+    width: 85%;
+    margin: auto;
+    
+    background-image: url('../../bg.png');
+    color: #FFFF;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    height: 40vh;
+}
+.footer{
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5rem;
+    
+}
+.left{
+    /* background-color: aqua; */
+    width: 30%;  
+}
+.left p{
+    margin-top: 2rem;
+}
+.footer>ul{
+    /* background-color: red; */
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer>ul>.title{
+    font-weight: 900;
+}
+.footer>ul>li:hover{
+    color: #ed5625;
+}
+
+.socials{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.socials>p{
+    font-weight: 900;
+}
+.media{
+    display: flex;
+    justify-content: space-around;
+}
+
 
 
      
