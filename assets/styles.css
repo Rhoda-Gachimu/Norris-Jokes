@@ -140,7 +140,8 @@ li{
     }
     .click{
         /* background-color: aqua; */
-        margin-left: 500px;
+         margin-left: 400px;
+        
         /* padding-left: 50px; */
         display: grid;
         
@@ -160,19 +161,23 @@ li{
     
     #in{
         margin-top: 25px;
-        /* height: 10vh; */
-         width: 50vw; 
+        height: 30vh; 
+        width: 50vw; 
+        padding: 60px;
+        align-content: center;
         border: 1px solid grey;
-        background-color: #ffff;
-        box-shadow: 10px 15px 10px #aaaaaa;
+        background-color: yellow;
+        box-shadow: 20px 30px 15px #aaaaaa;
         font-size: xx-large;
-        font-weight: 50;
+        font-weight: 600;
+        color:purple;
+        border-radius: 10px;
 }
 #viewjokes:hover{
     background-color:#f37070;
     /* color: #DB0E0E; */
     border: 2px solid;
-
+}
 /* Reviews */
 .reviews{
     width: 50%;
