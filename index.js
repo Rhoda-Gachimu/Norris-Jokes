@@ -10,4 +10,21 @@ subButton.addEventListener("click",function (){
     })
 
 
-    
+    // API
+
+const joke= document.getElementById("viewjokes")
+const jokeContent = document.getElementById("in")
+
+
+joke.addEventListener("click", function() {
+    callApi()
+})
+
+function callApi() {
+    fetch('https://api.chucknorris.io/jokes/random')
+      .then((response) => response.json())
+      .then((data) => {
+        console.log(data.value);
+       jokeContent.value = data.value
+      })
+}
