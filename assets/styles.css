@@ -160,10 +160,12 @@ li{
     #in{
         margin-top: 25px;
         height: 10vh;
-        width: 85vh;
+        width: auto;
         border: 1px solid grey;
         background-color: #ffff;
         box-shadow: 10px 15px 10px #aaaaaa;
+        font-size: xx-large;
+        font-weight: 50;
 }
 
 /* Reviews */
