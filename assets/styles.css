@@ -156,6 +156,7 @@ li{
         border-radius: 50px;
         background-color: #DB0E0E;
     }
+   
     
     #in{
         margin-top: 25px;
@@ -167,6 +168,10 @@ li{
         font-size: xx-large;
         font-weight: 50;
 }
+#viewjokes:hover{
+    background-color:#f37070;
+    /* color: #DB0E0E; */
+    border: 2px solid;
 
 /* Reviews */
 .reviews{
@@ -297,5 +302,3 @@ footer{
 }
      
 
-
-      
