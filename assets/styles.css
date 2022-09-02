@@ -1,5 +1,9 @@
 
-
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 body{
     font-family: 'Cormorant Upright', serif;
 }
@@ -72,6 +76,7 @@ li{
         /* justify-content: space-between;
         width: 85%;
         margin: auto;  */
+        padding: 5rem;
     }
      
     .image{
@@ -114,8 +119,10 @@ li{
 
     }
     #random{
+        
         text-align: center;
-        font-size: 2.5rem;
+        font-size: 1.5rem;
+        margin-top: 3rem;
     }
     .container{
         display: flex; 
@@ -125,17 +132,20 @@ li{
     
 
     .Random>button{
-       background-color: #DB0E0E; 
+       background:none;
+       border: 1px solid #ccc;
+       padding: 1.5rem 1rem;
        justify-content: center;
        align-items: center; 
-       padding-bottom: 3rem;
-       width: 200px;
+       font-size:1.2rem;
+       width: 250px;
        margin-top: 3rem;
        margin-bottom: 3rem;
        margin-left: 45rem;
        border-radius: 10px;
-       padding: 10px;
+
        color: #ffff;
+       
     
     }
     .click{
@@ -151,13 +161,22 @@ li{
         color: #ffff;
         text-align: center;
         font-weight: 600;
-        font-size: 2.5rem;
+        font-size: 1.3rem;
         width: 20vw;
         margin-left: 200px;
-        border-radius: 50px;
+        border-radius: 15px;
         background-color: #DB0E0E;
+        border: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1.5rem 1.5rem;
+        
     }
-   
+   #hand{
+    width: 30px;
+    padding-left: 10px;
+   }
     
     #in{
         margin-top: 25px;
@@ -237,13 +256,14 @@ background-color: antiquewhite;
 /* Footer */
 footer{
     background-color: #628395;
-    width: 85%;
+    width: 100%;
     margin: auto;
+    padding:3rem 10rem 1rem 10rem ;
+
     
-    background-image: url('../../bg.png');
     color: #FFFF;
     font-size: 1.5rem;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     height: 50vh;
 }
 .footer{
