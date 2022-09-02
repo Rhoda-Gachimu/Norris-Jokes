@@ -220,10 +220,18 @@ reviews h1{
     margin-top: 20px;
     color: #DB0E0E;
 }
+.reviewContent span:hover{
+background-color: antiquewhite;
+
+
+}
 #feedback{
     /* background-color: #DB0E0E; */
     text-align: center;
 }
+
+
+
 
 
 /* Footer */
