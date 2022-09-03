@@ -8,7 +8,7 @@ body{
     font-family: 'Cormorant Upright', serif;
 }
 nav{
-      /* background-color: blue;   */
+     background-color: blue;   
      width: 85%;
      margin: auto;
      display: flex;
@@ -76,7 +76,7 @@ li{
         /* justify-content: space-between;
         width: 85%;
         margin: auto;  */
-        padding: 5rem;
+        padding: 1.5rem;
     }
      
     .image{
@@ -339,3 +339,17 @@ footer{
 }
 
 /* mediaqueries */
+
+@media screen and (max-width:1500px){
+
+    nav{
+    width: 100%;
+    padding: 10px;
+    }
+   
+    .Homepage{
+        display: flex;
+        justify-content: space-around;
+        width: 90%;   
+    }
+}
