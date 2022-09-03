@@ -171,9 +171,9 @@ li{
 
 <!-- ACKNOWLEDGMENTS -->
 ## Authors Info
-<ol>   
-<li>Rhoda Gachimu (https://github.com/Rhoda-Gachimu)</li>   
-</ol>
+  
+ Rhoda Gachimu (https://github.com/Rhoda-Gachimu)  
+
 
 Project Link: [https://github.com/Rhoda-Gachimu/Norris-Jokes]
 
