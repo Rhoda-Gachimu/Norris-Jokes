@@ -1,15 +1,15 @@
 # Norris-Jokes
 <!-- TABLE OF CONTENTS -->
 
-  +[Description](#description)
-  +[Installation Requirement](#Installation)
-  +[Technology Used](#technology-used)
-  +[Getting Started](#getting-started)
-  +[Prerequisites](#prerequisites)
-  +[Contribution](#contribution)
-  +[Code Samples](#code-samples)
-  +[Licence](#licence)
-  +[Authors Info](#author-Info)
+  + [Description](#description)
+  + [Installation Requirement](#Installation)
+  + [Technology Used](#technology-used)
+  + [Getting Started](#getting-started)
+  + [Prerequisites](#prerequisites)
+  + [Contribution](#contribution)
+  + [Code Samples](#code-samples)
+  + [Licence](#licence)
+  + [Authors Info](#author-Info)
  
 <!-- ABOUT THE PROJECT -->
 ## Description
