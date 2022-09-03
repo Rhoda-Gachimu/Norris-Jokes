@@ -282,7 +282,7 @@ footer{
     margin-top: 2rem;
 }
 .footer>ul{
-    /* background-color: red; */
+    
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -337,3 +337,5 @@ footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: green;
 }
+
+
