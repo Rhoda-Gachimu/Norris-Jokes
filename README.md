@@ -1,7 +1,6 @@
 # Norris-Jokes
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+
   +[Description](#description)
   +[Installation Requirement](#Installation)
   +[Technology Used](#technology-used)
@@ -12,11 +11,6 @@
   +[Licence](#licence)
   +[Authors Info](#author-Info)
  
-  
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Description
 It is a Website with the following MVPs: The landing page ,Random jokes section,Reviews section and Footer section. <br>
