@@ -338,9 +338,9 @@ footer{
     color: green;
 }
 
-/* mediaqueries */
+/* MEDIA QUERIES */
 
-@media screen and (max-width:1500px){
+/* @media screen and (max-width:1500px){
 
     nav{
     width: 100%;
@@ -350,6 +350,16 @@ footer{
     .Homepage{
         display: flex;
         justify-content: space-around;
-        width: 90%;   
+        width: 100%;   
+    }
+} */
+@media screen and (max-width: 425px) {
+    body, .query {
+      width: 100%;
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      display: flex;
+      flex-direction: column;
     }
 }
