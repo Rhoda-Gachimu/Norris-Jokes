@@ -8,7 +8,7 @@ body{
     font-family: 'Cormorant Upright', serif;
 }
 nav{
-     background-color: blue;   
+     /* background-color: blue;    */
      width: 85%;
      margin: auto;
      display: flex;
