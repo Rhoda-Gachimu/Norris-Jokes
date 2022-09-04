@@ -131,27 +131,7 @@ li{
         justify-content: space-between;
         
     } 
-    #img1{
-        width: 50vw;
-        height: 20vh;
-
-    }
-    #img2{
-        width: 50vw;
-        height: 20vh;
-    }
-    #img3{
-        width: 50vw;
-        height: 20vh;
-    }
-    #img4{
-        width: 50vw;
-        height: 20vh;
-    }
-    #img5{
-        width: 50vw;
-        height: 20vh;
-    }
+    
     
 
     .Random>button{
