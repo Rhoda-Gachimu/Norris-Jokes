@@ -754,13 +754,14 @@ footer{
 }
 
    /* 1024 */
+   @media screen and (max-width: 1024px) {
 nav{
-    padding: 0;
+        padding: 0;
         margin: 0;
         height: 5vh;
         width: 600%;
 }
-
+   }
 
 
 
