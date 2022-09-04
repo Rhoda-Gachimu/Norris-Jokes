@@ -753,6 +753,17 @@ footer{
     }
 }
 
+   /* 1024 */
+nav{
+    padding: 0;
+        margin: 0;
+        height: 5vh;
+        width: 600%;
+}
+
+
+
+
    /* LAPTOP LARGE */
    @media screen and (max-width:1585px){
  
@@ -763,7 +774,12 @@ footer{
         height: 5vh;
         width: 600%;
     }
-        
+    .Homepage{
+        width: 800%;
+    }
+    footer{
+        width: 800%;
+    }
         nav>button{
             /* background-color: yellow; */
             margin-right: 5rem; 
