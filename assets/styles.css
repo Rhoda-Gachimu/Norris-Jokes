@@ -347,6 +347,7 @@ footer{
         /* align-items: center; */
         /* justify-content: center; */
         padding: 0%;
+        margin: 0;
         justify-content: space-evenly;
         flex-wrap: wrap;
     
@@ -525,7 +526,7 @@ margin-bottom:200px;
     font-weight: 200;
     font-size: 1.2rem;
     width: 40vw;
-    margin-left: 130px;
+    margin-left: 5px;
     margin-top: 10px;
     border-radius: 20px;
     background-color: #DB0E0E;
@@ -566,27 +567,45 @@ border: 2px solid;
 }
   /* RANDOM SECTION */
   .container{
-   background-color: #f37070;
+   /* background-color: #f37070; */
+   width: 700%;
+   margin: 0;
+   padding: 0;
+   justify-content: space-evenly;
 
 }
 .Random{
-    background-color: indigo;
+    /* background-color: indigo; */
+    width: 700%;
 }
 .btn{
-     background-color: #f37070;
+     /* background-color: #d31212; */
+    width: 700%;
     
     
 }
 .explorebtn{
     background-color: transparent;
+    margin-left: 0;
     
 }
 #rj{
-     background-color: #f37070; 
+     /* background-color: #7ff370;  */
+          width: 700%;
+          text-align: center;
+          font-size: 0.5rem;
+          font-weight: 200;
+          margin-top: 100px
     
 }
 
-
+#feedback{
+        width: 600%;
+        text-align: center;
+        font-size: 2rem;
+        margin-top: 100px;
+    
+}
 
 
  .reviews h1{
@@ -598,8 +617,8 @@ border: 2px solid;
 }
 footer{
     background-color: #628395;
-    /* width: 100%; */
-    width: auto;
+
+    width: 700%;
     margin: auto;
     padding:.5rem 5rem 10rem 5rem ;
 
@@ -638,6 +657,7 @@ footer{
 }
 
 .footer>ul>.title{
+    max-width: 700%;
     font-weight: 900;
 }
 .footer>ul>li:hover{
@@ -749,17 +769,17 @@ footer{
     }
      /* RANDOM SECTION */
      .container{
-        background-color: #f37070;
+        /* background-color: #f37070; */
         margin-left: 0;
         padding: 0;
         
      }
      .Random{
-         background-color: indigo;
+         /* background-color: indigo; */
          width: 800%;
      }
      .btn{
-          background-color: #e21515;
+          /* background-color: #e21515; */
           margin-left: 34%;
           
         
@@ -771,7 +791,7 @@ footer{
          
      }
      #rj{
-          background-color: #7088f3; 
+          /* background-color: #7088f3;  */
           width: 600%;
           text-align: center;
           font-size: 4rem;
@@ -785,6 +805,7 @@ footer{
         text-align: center;
         font-size: 5rem;
         margin-top: 100px;
+    
     
     }
         .reviewMain{
