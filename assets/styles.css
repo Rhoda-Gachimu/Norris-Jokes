@@ -339,7 +339,7 @@ footer{
 /* MEDIA QUERIES */
 
        /* MOBILE PHONE  */
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 480px) {
     nav{
         /* background-color: #DB0E0E; */
         display: flex;
@@ -716,6 +716,41 @@ footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: green;
 }
+}
+
+   /* 650 */
+
+@media screen and (max-width: 650px) {
+    nav{
+    
+        padding: 0;
+        margin: 0;
+        height: 5vh;
+        width: 600%;
+    }
+    .click{
+        /* background-color: #3edb0e; */
+        width: 500%;
+    
+        margin:3% 300%;
+    }
+
+    #viewjokes{
+        margin-left: 0;
+    }
+    .Random{
+        width: 600;
+    }
+    .container{
+        background-color: #DB0E0E;
+        margin: 0;
+        padding: 0;
+    }
+    .container1{
+        padding: 0;
+        margin: 0;
+        
+    }
 }
 
    /* LAPTOP LARGE */
