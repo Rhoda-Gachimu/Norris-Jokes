@@ -110,47 +110,9 @@ li{
         text-align: center;
         font-size: 2.5rem;
     }
-
-    .Random{
-        /* background-color: #DB0E0E; */
-        padding: 50px;
-        /* margin: auto; */
-        
-
-    }
-    #random{
-        
-        text-align: center;
-        font-size: 1.5rem;
-        margin-top: 3rem;
-    }
-    .container1{
-        display: flex; 
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        
-    } 
     
+    /* API SECTION */
     
-
-    .Random>button{
-       background:none;
-       border: 1px solid #ccc;
-       padding: 1.5rem 1rem;
-       justify-content: center;
-       align-items: center; 
-       font-size:1.2rem;
-       width: 250px;
-       margin-top: 3rem;
-       margin-bottom: 3rem;
-       margin-left: 45rem;
-       border-radius: 10px;
-
-       color: #ffff;
-       
-    
-    }
     .click{
         /* background-color: aqua; */
          margin-left: 400px;
@@ -200,6 +162,42 @@ li{
     /* color: #DB0E0E; */
     border: 2px solid;
 }
+
+/* Random section */
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+.Random{
+    display: block;
+}
+.btn{
+    /* background-color: #f37070; */
+    margin: 2% 40%;
+    width: 50vh;
+    height: 20vh;
+    padding: 20px 0;
+    
+}
+.explorebtn{
+    background-color: transparent;
+    height: 10vh;
+    width: 25vh;
+    border-radius:10px;
+    margin-left: 10%;
+    border: 1px black solid;
+}
+#rj{
+    /* background-color: #f37070; */
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+
 
 /* Reviews */
 .reviews{
@@ -566,58 +564,11 @@ background-color:#f37070;
 /* color: #DB0E0E; */
 border: 2px solid;
 }
-.Random{
-     /* background-color: #DB0E0E;  */
-    position: relative;
-    /* padding: 10px; */
-    flex-wrap: wrap;
-    justify-content: space-around;
-     /* margin: auto; */
-    
+  /* RANDOM SECTION */
 
-}
-#random{
-background-color:#628395;
-    text-align: center;
-    font-size: 1.5rem;
-    margin-top: 5rem;
-}
-.container{
-    /* background-color: #159e4e; */
-    /* margin-bottom: 0px; */
-    justify-content: space-between; 
-     display: flex; 
-     flex-wrap: wrap;
-     margin: 10px;
-    
-    /* flex-direction: row; */
-      
-}
-.container1{
-    /* background-color: indigo; */
-    margin-bottom: 10px;
-    display:grid;
-    margin: 5px 50px;
 
-    
-    
-}
 
-.Random>button{
-   background:none;
-   border: 1px solid #ccc;
-   padding: 1.5rem 1rem;
-   justify-content: center;
-   align-items: center; 
-   font-size:1.2rem;
-   width: 250px;
-   margin-top: 1rem;
-   margin-bottom: 3rem;
-   margin-left: 4rem;
-   border-radius: 10px;
 
-   color: #ffff;
-}
  .reviews h1{
     
     text-align: center;
@@ -776,30 +727,11 @@ footer{
         /* align-items: center; */
         margin:3% 300%;
     }
-    #random{
-        width: 600%;
-        align-items: center;
-    }   
-    .Random{
-        /* background-color: #f37070; */
-        
-        width: 700%;
-        
-    }
-    
-    .container{
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-        object-fit: fill;
-        
-       
-    }
-    .container1{
-        margin: 0.8%;
-        display: block;
-    
-    }
+     /* RANDOM SECTION */
+
+
+
+
     #feedback{
         width: 600%;
         text-align: center;
