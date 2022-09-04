@@ -773,7 +773,7 @@ footer{
     .click{
         /* background-color: #DB0E0E; */
         width: 700%;
-        align-items: center;
+        /* align-items: center; */
         margin:3% 300%;
     }
     #random{
