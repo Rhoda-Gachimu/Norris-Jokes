@@ -71,6 +71,9 @@ The page appears as shown below and has the following features:
 - This is the landingpage: It a descriptive section that tells you what the website is all about. The About Us,jokes,feedback links and the ContactUs button will help you navigate through the page.
  <img src="/assets/Images/Screenshot from 2022-09-06 15-10-17.png" alt="">
 
+-This is the input field whereby the jokes(from a Public API) get displayed whenever one clicks the view jokes button.The Jokes data I used is from a  Public API (https://api.chucknorris.io/) 
+ <img src="/assets/Images/Screenshot from 2022-09-06 15-22-54.png" alt="">
+
   ## Contribution
 If you need to contribute to this project follow the steps below:<br>
 - Clone the repo(`git clone <repo link>`)
