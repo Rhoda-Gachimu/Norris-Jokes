@@ -336,3 +336,66 @@ footer{
     color: green;
 }
 
+   
+
+   /* MEDIA QUERIES */
+@media screen and (max-width: 1400px) {
+    /* *{background-color: mediumorchid;}  */
+   nav {
+      background-color: greenyellow; 
+     width: 100%;
+   }
+   .Homepage {
+       background-color: blue;  
+     width: 100%;
+   }
+   .About {
+     /* background-color: green; */
+     /* border: 2px black solid; */
+     margin-right: 150px;
+     margin-bottom: 20px;
+   }
+   .Random {
+     /* background-color: yellow; */
+     padding-top: 50px;
+     width: 100%;
+     align-items: center;
+   }
+   .container {
+     /* background-color:blue; */
+     display: grid;
+     display: grid;
+     column-gap: 50px;
+   }
+   footer {
+     /* background-color: green; */
+     width: 80% px;
+   }
+   .explorebtn {
+     /* background-color: black; */
+     width: 120px;
+   }
+ }
+ 
+ @media screen and (max-width: 1024px) {
+   .About {
+     /* background-color: green; */
+     /* border: 2px black solid; */
+     width: 80%;
+   }
+   .container {
+     display: column-gap;
+   }
+ 
+   .humour {
+     margin-left: 10%;
+   }
+   #emoji {
+     margin-left: 2%;
+   }
+   footer {
+     /* background-color: orange; */
+     height: 100vh;
+   }
+ }
+ 
