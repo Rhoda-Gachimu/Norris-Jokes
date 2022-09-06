@@ -342,11 +342,11 @@ footer{
 @media screen and (max-width: 1400px) {
     /* *{background-color: mediumorchid;}  */
    nav {
-      background-color: greenyellow; 
+      /* background-color: greenyellow;  */
      width: 100%;
    }
    .Homepage {
-       background-color: blue;  
+       /* background-color: blue;   */
      width: 100%;
    }
    .About {
