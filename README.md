@@ -69,7 +69,7 @@ Use the link provided to navigate to the Norris website.
 
 The page appears as shown below and has the following features:
 - This is the landingpage: It a descriptive section that tells you what the website is all about. The About Us,jokes,feedback links and the ContactUs button will help you navigate through the page.
-<img src=""/>
+ <img src="/assets/Images/Screenshot from 2022-09-06 15-10-17.png" alt="">
 
   ## Contribution
 If you need to contribute to this project follow the steps below:<br>
